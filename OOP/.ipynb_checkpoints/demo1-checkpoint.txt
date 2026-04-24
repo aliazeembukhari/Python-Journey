@@ -1,0 +1,2 @@
+Python is a great language which is mostly used in Artificial Intelligence and Data Science due to its great number of libraries
+It is easy to learn
